@@ -128,7 +128,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-Using this link: https://github.com/Ramaunspoken/Popup2.git
+Using this link:
 
 <!--
 Example commands:
