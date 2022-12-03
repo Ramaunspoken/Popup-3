@@ -841,10 +841,6 @@ footer {
   transition: all 0.35s ease-in;
 }
 
-li input:hover {
-  transform: translate(7%);
-}
-
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -874,6 +870,10 @@ li input {
   padding-right: 24px;
   margin-top: 18px;
   transition: all 0.35s ease-in;
+}
+
+li input:hover {
+  transform: translate(7%);
 }
 
 li textarea {
@@ -1298,8 +1298,8 @@ button:active {
   }
 
   .btn:hover {
-  color: #fff;
-  background: #396df2;
+    color: #fff;
+    background: #396df2;
   }
 
   .btn:active {
