@@ -1,5 +1,5 @@
 {
-  "name": "Popup windows",
+  "name": "Popup-Windows",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramaunspoken/Popup2.git"
+    "url": "git+https://github.com/Ramaunspoken/Popup-Windows.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramaunspoken/Popup2/issues"
+    "url": "https://github.com/Ramaunspoken/Popup-Windows/issues"
   },
-  "homepage": "https://github.com/Ramaunspoken/Popup2#readme",
+  "homepage": "https://github.com/Ramaunspoken/Popup-Windows#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
