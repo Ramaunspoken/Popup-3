@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,1d00;1,200;1,300;1,400;1,500;1,700;1,800&display=swap');
+
 *,
 *::before,
 *::after {
@@ -841,10 +843,6 @@ footer {
   transition: all 0.35s ease-in;
 }
 
-li input:hover {
-  transform: translate(7%);
-}
-
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -874,6 +872,10 @@ li input {
   padding-right: 24px;
   margin-top: 18px;
   transition: all 0.35s ease-in;
+}
+
+li input:hover {
+  transform: translate(7%);
 }
 
 li textarea {
@@ -1298,8 +1300,8 @@ button:active {
   }
 
   .btn:hover {
-  color: #fff;
-  background: #396df2;
+    color: #fff;
+    background: #396df2;
   }
 
   .btn:active {
